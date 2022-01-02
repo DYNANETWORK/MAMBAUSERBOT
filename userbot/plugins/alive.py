@@ -46,7 +46,7 @@ async def amireallyalive(event):
     _, check_sgnirts = check_data_base_heal_th()
     EMOJI = gvarstatus("ALIVE_EMOJI") or " 💫 "
     ALIVE_TEXT = (
-        gvarstatus("ALIVE_TEXT") or "**🌟 LɪᴏɴX Is Aʟɪᴠᴇ Aɴᴅ Wᴏʀᴋɪɴɢ Sᴍᴏᴏᴛʜʟʏ 🌟**"
+        gvarstatus("ALIVE_TEXT") or "**🌟 MAMBA Is Aʟɪᴠᴇ Aɴᴅ Wᴏʀᴋɪɴɢ Sᴍᴏᴏᴛʜʟʏ 🌟**"
     )
     LION_IMG = gvarstatus("ALIVE_PIC")
     Lion_caption = gvarstatus("ALIVE_TEMPLATE") or temp
@@ -84,7 +84,7 @@ async def amireallyalive(event):
 temp = """{ALIVE_TEXT}
 {EMOJI} Database : {dbhealth}
 {EMOJI} Telethon Version : {telever}
-{EMOJI} LionXub Version : {lionver}
+{EMOJI} Mambaub Version : {mambaver}
 {EMOJI} Python Version : {pyver}
 {EMOJI} Uptime : {uptime}
 {EMOJI} Master: {mention}"""
@@ -105,10 +105,10 @@ async def amireallyalive(event):
     "A kind of showing bot details by your inline bot"
     reply_to_id = await reply_id(event)
     EMOJI = gvarstatus("ALIVE_EMOJI") or " ✨ "
-    ALIVE_TEXT = gvarstatus("ALIVE_TEXT") or "**LionXub is Up and Running**"
+    ALIVE_TEXT = gvarstatus("ALIVE_TEXT") or "**MAMBAub is Up and Running**"
     Lion_caption = f"{ALIVE_TEXT}\n"
     Lion_caption += f"**{EMOJI} Telethon version :** `{version.__version__}\n`"
-    Lion_caption += f"**{EMOJI} LionXub Version :** `{lionversion}`\n"
+    Lion_caption += f"**{EMOJI} Mambaub Version :** `{lionversion}`\n"
     Lion_caption += f"**{EMOJI} Python Version :** `{python_version()}\n`"
     Lion_caption += f"**{EMOJI} Master:** {mention}\n"
     results = await event.client.inline_query(Config.TG_BOT_USERNAME, Lion_caption)
