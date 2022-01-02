@@ -1,19 +1,19 @@
 {
-  "name": "LionXZ",
+  "name": "MAMBA",
   "description": "A simple Telegram userbot based on Telethon ",
-  "logo": "https://telegra.ph/file/91282faec32f3e122e8a4.jpg",
+  "logo": "https://telegra.ph/file/ea68644f59bdaf57fd61e.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MdNoor786/LionX/",
+  "repository": "https://github.com/SUKHPAL443/MAMBA/",
   "website": "#TODO",
-  "success_url": "https://t.me/LionXsupport",
+  "success_url": "https://t.me/MAMBA_X_SUPPORT",
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": "ⱠłØ₦-Ⱬ Ʉѕєя"
+      "value": "MAMBA"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -24,7 +24,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally oorhttps://replit.com/@simpleboy786/Lion-X?v=1",
+      "description": "Get this value by running python3 telesetup.py locally oor "https://replit.com/@Jaggi444/MAMBA#main.py"",
       "value": ""
     },
     "TG_BOT_USERNAME": {
