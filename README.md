@@ -5,8 +5,8 @@
                        
 ıllıllı⭐🌟 d͙e͙p͙l͙o͙y͙ 🌟⭐ıllıllı
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBA)
-<p><a href=https://github.com/DYNANETWORK/MAMBA> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo="railway" width="200"/></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBAUSERBOT)
+<p><a href=https://github.com/DYNANETWORK/MAMBAUSERBOT> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo="railway" width="200"/></a></p>
 
 #### STRING SESSION 
 
